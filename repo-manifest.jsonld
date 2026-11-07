@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/oscpy/commit/9d6e1213d40f1a76de3f4615379808cf3e002460",
       "git:hexsha": "9d6e1213d40f1a76de3f4615379808cf3e002460",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:18:11.392923+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kivy/oscpy/commit/0e917c88df503cde05cdc655c9a3ab22f6591b91",
